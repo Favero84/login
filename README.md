@@ -8,3 +8,7 @@
 ### Tela para cadastrar:
 
 ![Login](https://github.com/Favero84/login/blob/master/Cadastre-se.png)
+
+### Tela de erro de e-mail e/ou senha inválidos:
+
+![Login]()
