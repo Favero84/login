@@ -3,6 +3,8 @@
 
 ### Tela para cadastrar:
 
-![Login]()
+![Login](https://github.com/Favero84/login/blob/master/Cadastre-se.png)
 
 ### Tela para Logar:
+
+![Login](https://github.com/Favero84/login/blob/master/Login.png)
